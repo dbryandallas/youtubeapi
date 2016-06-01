@@ -7,3 +7,8 @@ div {
 .line-clamp {
 	font-size: 18px;
 }
+
+#query {
+	border-radius: 10px
+
+}
