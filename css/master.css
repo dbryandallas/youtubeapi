@@ -1,0 +1,9 @@
+div {
+	alignment: center;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.line-clamp {
+	font-size: 18px;
+}
